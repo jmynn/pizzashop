@@ -13,6 +13,9 @@ body {
   flex-direction: column;
   width: inherit;
 }
+* {
+  line-height: 110%;
+}
 
 #__nuxt,
 #__nuxt > *,
