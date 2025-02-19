@@ -8,5 +8,7 @@
 .container {
   width: var(--container);
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
 }
 </style>

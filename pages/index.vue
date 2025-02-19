@@ -1,10 +1,9 @@
 <script setup lang="ts">
 useHead({
-  title: 'Pizzashop',
-  description: 'Main page of Pizzashop'
+  title: 'Pizzashop'
 });
 </script>
 
-<template></template>
+<template><ViewsMain /></template>
 
 <style scoped></style>
