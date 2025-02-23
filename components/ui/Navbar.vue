@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import ROUTES from '~/data/routes.ts';
+import ROUTES from '~/data/routes';
 
 const viewport = useViewport();
 </script>

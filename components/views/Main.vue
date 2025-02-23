@@ -22,6 +22,7 @@ const viewport = useViewport();
           alt="left main picture"
           format="webp"
           class="processPic"
+          preload
         />
       </div>
       <NuxtLink to="/" class="order">
@@ -39,6 +40,7 @@ const viewport = useViewport();
         alt="main picture"
         format="webp"
         class="mainPic"
+        preload
       />
     </div>
   </main>
